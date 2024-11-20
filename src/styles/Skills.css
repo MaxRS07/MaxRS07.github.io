@@ -1,0 +1,65 @@
+.skills-container {
+    margin-left: 10vw;
+    width: 40vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    padding: 10px;
+}
+
+.img-container img {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.img-container:hover {
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out;
+    border: 2px solid var(--accent-color);
+}
+
+.img-container:not(:hover) {
+    transform: scale(1.0);
+    transition: all 0.3s ease-in-out;
+}
+
+.icon-gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 1rem;
+}
+
+.flutter-shift-left {
+    transform: translateX(0%);
+}
+
+.rust-invert {
+    filter: invert(100%);
+}
+
+.skills-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 10vh;
+}
+
+.skills-header {
+    margin-left: 5%;
+    width: 43vw;
+}

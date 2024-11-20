@@ -1,0 +1,21 @@
+.about-container {
+    margin-left: 10vw;
+    margin-top: 10vh;
+    width: 40vw;
+}
+
+.about-image-container {
+    margin-left: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    position: absolute;
+    left: 50%;
+    clip-path: circle(50% at 50% 50%);
+}
+
+.about-image-container img {
+    height: 400px;
+    object-fit: cover;
+}

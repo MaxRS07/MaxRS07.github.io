@@ -1,0 +1,66 @@
+@import './Global.css';
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  margin: 0;
+  background-color: var(--background-color);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.App-top-align {
+  display: flex;
+  margin: 0;
+  background-color: var(--background-color);
+  min-height: 70vh;
+  align-items: top;
+  color: white;
+}
+
+.App-main-left {
+  color: white;
+  padding-left: 20%;
+  font-size: calc(10px + 2vmin);
+  text-align: left;
+}
+
+.App-down-arrow {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+
+}
+
+.App-down-arrow button {
+  background: none;
+  border: none;
+  animation: none;
+}
+
+.App-down-arrow img {
+  width: 50px;
+  height: 50px;
+  filter: invert(100%);
+  animation: bounce 3s ease-in-out infinite;
+}
+
+.App-colored-text {
+  color: var(--accent-color);
+  position: relative;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
