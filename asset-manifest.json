@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/MaxRS07/static/css/main.66ffc15e.css",
+    "main.js": "/MaxRS07/static/js/main.1fa81dfc.js",
+    "static/js/453.d73b0aaa.chunk.js": "/MaxRS07/static/js/453.d73b0aaa.chunk.js",
+    "static/media/terraria.png": "/MaxRS07/static/media/terraria.1bce39869b36e5475bc6.png",
+    "static/media/hkwi.png": "/MaxRS07/static/media/hkwi.f37e955c02b1a91230dd.png",
+    "static/media/weddit_bot.png": "/MaxRS07/static/media/weddit_bot.7408027b11667ad6bceb.png",
+    "static/media/me.png": "/MaxRS07/static/media/me.931206a0a958f1616ddd.png",
+    "static/media/zumi.png": "/MaxRS07/static/media/zumi.5e745bfc1fd9aae24812.png",
+    "static/media/rust.svg": "/MaxRS07/static/media/rust.a1425d8a3e2df4f25b1cab5687492b40.svg",
+    "static/media/react.svg": "/MaxRS07/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/csharp.svg": "/MaxRS07/static/media/csharp.04d9d2bb18b9781567f7340691dcc686.svg",
+    "static/media/swift.svg": "/MaxRS07/static/media/swift.75f20f67a72ea6eb709242278fbc431b.svg",
+    "static/media/flutter.svg": "/MaxRS07/static/media/flutter.5e0ebde82050c8fcdf6121b4498b520c.svg",
+    "static/media/c.svg": "/MaxRS07/static/media/c.21a8fab81e76bf019238a55c1c88198c.svg",
+    "static/media/python.svg": "/MaxRS07/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/instagram.svg": "/MaxRS07/static/media/instagram.cd466b0ec9b17feae9e314b53530e1eb.svg",
+    "static/media/dotnet.svg": "/MaxRS07/static/media/dotnet.b36a9e60deda6c9a11705e162497fb61.svg",
+    "static/media/github-mark-white.svg": "/MaxRS07/static/media/github-mark-white.a31c7c244f32fad8ef3fd3144bda6007.svg",
+    "static/media/angular-icon.svg": "/MaxRS07/static/media/angular-icon.e6ed573fa80c0dc1bf57730930ac0158.svg",
+    "index.html": "/MaxRS07/index.html",
+    "static/media/CSS.svg": "/MaxRS07/static/media/CSS.6ec1697a406483c72ccf775894d16777.svg",
+    "static/media/javascript.svg": "/MaxRS07/static/media/javascript.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "static/media/down-arrow.svg": "/MaxRS07/static/media/down-arrow.8b440f1acbd2ccaabe7ad6e40fe95166.svg",
+    "static/media/unity.svg": "/MaxRS07/static/media/unity.4d67ca90c98f7733b570e71ef19b4e55.svg",
+    "static/media/html.svg": "/MaxRS07/static/media/html.a664fe2786f82ecd4e5ddc73e6c3f28c.svg",
+    "static/media/linkedin.svg": "/MaxRS07/static/media/linkedin.7ce5d5ccaf92240c4129548dd2404ef6.svg",
+    "main.66ffc15e.css.map": "/MaxRS07/static/css/main.66ffc15e.css.map",
+    "main.1fa81dfc.js.map": "/MaxRS07/static/js/main.1fa81dfc.js.map",
+    "453.d73b0aaa.chunk.js.map": "/MaxRS07/static/js/453.d73b0aaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ffc15e.css",
+    "static/js/main.1fa81dfc.js"
+  ]
+}
